@@ -6,6 +6,7 @@ Bottom Boundary = 900 K\
 Left Boundary = 400 K\
 Right Boundary = 800 K
 
+Iterative solver is used to solve the system of linear equations and there are three types of solver Jacobi, Gauss Seidel and SOR method.\
 I used three methods for solving it implicitly
 1. Jacobi
 2. Gauss-seidel
